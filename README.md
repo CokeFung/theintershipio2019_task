@@ -13,7 +13,7 @@ E-mail : naruebetcm@gmail.com
 
 สามารถรันใน CMD ได้โดยเข้าไปที่ Directory ของโปรแกรม hangman
 
-แล้วใช้คำสั่งตามด้าล่าง เพื่อรันโปรแกรม hangman
+แล้วใช้คำสั่งด้านล่าง เพื่อรันโปรแกรม hangman
 
 ```sh
 $ py -3 hangman.py
@@ -26,14 +26,14 @@ $ py -3 hangman.py
 
 โดยใช้ module ที่ชื่อว่า xmltodict และ json เข้ามาช่วยในการทำงานขอโปรแกรม
 
-สามารถโหลด module โดยใช้คำสั่งใน CMD ว่า
+สามารถโหลด module โดยใช้คำสั่งใน CMD ตามด้านล่าง
 
 ```sh
 $ pip install xmltodict
 ```
 
 สามารถรันใน CMD ได้โดยเข้าไปที่ Directory ของโปรแกรม weather
-แล้วใช้คำสั่งตามด้าล่าง เพื่อรันโปรแกรม weather
+แล้วใช้คำสั่งด้านล่าง เพื่อรันโปรแกรม weather
 
 ```sh
 $ py -3 weather.py
