@@ -43,8 +43,9 @@ $ py -3 weather.py
 
 แล้วส่ง output ออกมาเป็นไฟล์ .json
 
+
 ***โดยส่วนของการใช้ module xmltodict ได้นำโค้ดตัวอย่างจากเว็บไซต์ด้านล่าง มาปรับใช้ในการทำโปรแกรมนี้ด้วย***
 
-http://carrefax.com/new-blog/2018/3/12/convert-xml-to-json
+ - http://carrefax.com/new-blog/2018/3/12/convert-xml-to-json
 
 
