@@ -1,0 +1,5 @@
+﻿backpack::used to carry things on your back, 
+compass::a device for finding direction, 
+forest::large area of land covered with trees and plants, 
+hunting::chasing and killing, 
+sunscreen::put on your skin to prevent it from being damaged by the sun
