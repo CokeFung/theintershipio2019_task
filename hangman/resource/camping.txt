@@ -2,4 +2,7 @@
 compass::a device for finding direction, 
 forest::large area of land covered with trees and plants, 
 hunting::chasing and killing, 
-sunscreen::put on your skin to prevent it from being damaged by the sun
+sunscreen::put on your skin to prevent it from being damaged by the sun, 
+lantern::a light inside a container that has a handle for holding it or hanging it up, 
+sleeping bag::thick bag for sleeping in
+

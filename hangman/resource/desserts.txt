@@ -1,4 +1,4 @@
-﻿doughnut::circular cakewith a hole in the middle, 
+﻿doughnut::circular cake with a hole in the middle, 
 cheesecake::a cake made from a layer of biscuit and covered with soft cheese, 
 brownie::square chocolate cake, 
 gingerbread::a type of cake that contains ginger, 

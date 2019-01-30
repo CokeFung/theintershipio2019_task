@@ -120,15 +120,18 @@ def main():
             isEnd, score, current_answer, last_guess = guessAnswer(score, current_answer, hidden_word)
             if not last_guess in guessed_char:
                 guessed_char[last_guess] = 1
-            print("Guessed character :", *guessed_char.keys())
-            print("Guessed %d times.\n" % guessed_times)
+
             if isEnd == True:
+                print("\nExcellent,answer is " + hidden_word + ".")
+                print("Guessed character :", *guessed_char.keys())
+                print("Guessed %d times.\n" % guessed_times)
                 show_score = "Your score is %d." % score
                 print("-"*(len(show_score)+4))
                 print("| " + show_score + " |")
                 print("-"*(len(show_score)+4))
-
                 break
+            print("Guessed character :", *guessed_char.keys())
+            print("Guessed %d times.\n" % guessed_times)
         play_again = playAgain()
         if play_again == "n":
             break
