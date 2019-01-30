@@ -1,5 +1,7 @@
-﻿doughnut, 
-cheesecake, 
-brownie, 
-gingerbread, 
-pancakes
+﻿doughnut::circular cakewith a hole in the middle, 
+cheesecake::a cake made from a layer of biscuit and covered with soft cheese, 
+brownie::square chocolate cake, 
+gingerbread::a type of cake that contains ginger, 
+pancake::usually eaten with maple syrup for breakfast, 
+marshmallow::a soft sweet (pink or white) food, 
+cupcake::a small cake with icing on top
