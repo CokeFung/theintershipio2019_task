@@ -1,0 +1,7 @@
+﻿airplane::a vehicle designed for air travel, 
+garment bag::suit or other item of clothing can be kept in it while travelling, 
+museum::a building where objects of historical, 
+postcard::a card with a photograph or picture on one side, 
+passport::an official document containing personal information, 
+swimsuit::a piece of clothing that you wear for swimming, 
+resort::a place where many people go for rest - sport - or another stated purpose
