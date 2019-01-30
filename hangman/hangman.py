@@ -6,13 +6,13 @@ def string2list(str):
 
 def readCategoryNWord():
     """ Read categories and words from file """
-    with open("./resources/category_list.txt", "r") as category_list_file:  #read category from "category.txt"
+    with open("./resource/category_list.txt", "r") as category_list_file:  #read category from "category.txt"
         category_list = category_list_file.read()[3:]
         category_list = string2list(category_list)
 
     word_list = {}
     for category_name in category_list:   #read all words in category
-        with open("./resources/"+category_name+".txt", "r") as temp_category:
+        with open("./resource/"+category_name+".txt", "r") as temp_category:
             temp_category = temp_category.read()[3:]
             word_list[category_name] = string2list(temp_category)
 
