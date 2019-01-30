@@ -6,4 +6,3 @@ E-mail : naruebetcm@gmail.com
 
 เบอร์โทรศัพท์ : 089-5436006
 
-Facebook : https://www.facebook.com/Naruebet.Coke
