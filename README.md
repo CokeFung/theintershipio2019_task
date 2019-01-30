@@ -20,7 +20,7 @@ $ py -3 hangman.py
 ```
 
 
-# โปรแกรมแปลง weather
+# โปรแกรม weather
 
 โปรแกรมแปลง Format XML เป็น json เขียนด้วยภาษา Python 3
 
